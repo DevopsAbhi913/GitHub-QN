@@ -1,4 +1,4 @@
-# I will never understand GIT it is so confusing 🙃
+# GIT is so confusing 🙃
 
 -  *If you are also thinking it in same way!! let me break it easy for you :*
 
